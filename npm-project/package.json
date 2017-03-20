@@ -1,0 +1,25 @@
+{
+  "name": "@victorliafook/npm-project",
+  "version": "1.0.1",
+  "description": "a npm project",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "Victor Lia Fook",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/victorliafook/how-to-npm.git"
+  },
+  "keywords": [
+    "npm",
+    "freecodecamp",
+    "backend"
+  ],
+  "bugs": {
+    "url": "https://github.com/victorliafook/how-to-npm/issues"
+  },
+  "homepage": "https://github.com/victorliafook/how-to-npm#readme",
+  "dependencies": {}
+}
